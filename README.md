@@ -7,3 +7,4 @@ This library is one of the exercises developed in the course Modern JavaScript f
 Technologies:
 
 JavaScript
+# fetch-http-library-async
