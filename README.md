@@ -6,6 +6,6 @@ This library is one of the exercises developed in the course Modern JavaScript f
 
 To create this library, the HTTP Library with Fetch using Promises repository was cloned and the functions changed to async functions.
 
-Technologies:
+### Technologies:
 
 JavaScript
